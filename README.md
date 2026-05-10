@@ -20,4 +20,4 @@ Latest
 
 ## Follow me
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/oleksandr-derhunov-26a4a1219/) [![Instagram](https://shields.io)](https://www.instagram.com/tennobody/) [![Instagram 2](https://shields.io)](https://www.instagram.com/tenagerq/) [![YouTube](https://shields.io)](https://www.youtube.com/@tenagerq) [![Steam](https://shields.io)](https://steamcommunity.com/id/216315595) [![TikTok](https://shields.io)](https://www.tiktok.com/@tennobody?is_from_webapp=1&sender_device=pc) [![Telegram](https://shields.io)](https://t.me/tenagerq)
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Instagram](https://shields.io)](https://instagram.com) [![Instagram 2](https://shields.io)](https://instagram.com) [![YouTube](https://shields.io)](https://youtube.com) [![Steam](https://shields.io)](https://steamcommunity.com) [![TikTok](https://shields.io)](https://tiktok.com) [![Telegram](https://shields.io)](https://t.me)
