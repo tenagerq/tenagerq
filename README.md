@@ -20,18 +20,15 @@ Latest
 
 ## Follow me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-derhunov-26a4a1219/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=ff69b4)](https://www.linkedin.com/in/oleksandr-derhunov-26a4a1219/)
+[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tennobody/)
+[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tenagerq/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=ff69b4)](https://www.instagram.com/tennobody/)
-[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=ff69b4)](https://www.instagram.com/tenagerq/)
+[![YouTube](https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tenagerq)
 
-[![YouTube](https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=ff69b4)](https://www.youtube.com/@tenagerq)
+[![Steam](https://img.shields.io/badge/Steam-161B22?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/216315595)
 
-[![Steam](https://img.shields.io/badge/Steam-161B22?style=for-the-badge&logo=steam&logoColor=ff69b4)](https://steamcommunity.com/id/216315595)
+[![TikTok](https://img.shields.io/badge/TikTok-161B22?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tennobody?is_from_webapp=1&sender_device=pc)
 
-[![TikTok](https://img.shields.io/badge/TikTok-161B22?style=for-the-badge&logo=tiktok&logoColor=ff69b4)](https://www.tiktok.com/@tennobody?is_from_webapp=1&sender_device=pc)
-
-[![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ff69b4)](https://t.me/tenagerq)
-
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tenagerq)
