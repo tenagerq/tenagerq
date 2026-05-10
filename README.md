@@ -18,5 +18,12 @@ Latest
 
 </div>
 
-##Follow me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-derhunov-26a4a1219/) [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tennobody/) [![Instagram 2](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tenagerq/) [![YouTube](https://img.shields.io/badge/YouTube-ff69b4?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tenagerq) [![Steam](https://img.shields.io/badge/Steam-ff69b4?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/216315595) [![TikTok](https://img.shields.io/badge/TikTok-ff69b4?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tennobody?is_from_webapp=1&sender_device=pc) [![Telegram](https://img.shields.io/badge/Telegram-ff69b4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tenagerq)
+## Follow me
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/oleksandr-derhunov-26a4a1219/) 
+[![Instagram](https://shields.io)](https://www.instagram.com/tennobody/) 
+[![Instagram 2](https://shields.io)](https://www.instagram.com/tenagerq/) 
+[![YouTube](https://shields.io)](https://www.youtube.com/@tenagerq) 
+[![Steam](https://shields.io)](https://steamcommunity.com/id/216315595) 
+[![TikTok](https://shields.io)](https://www.tiktok.com/@tennobody?is_from_webapp=1&sender_device=pc) 
+[![Telegram](https://shields.io)](https://t.me/tenagerq)
